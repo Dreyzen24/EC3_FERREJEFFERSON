@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_ec3</string>
+    <string name="valEmail">Email</string>
+    <string name="valcont">Contraseña</string>
+    <string name="valbtn">ACCEDER</string>
+    <string name="V">ACCEDER</string>
+</resources>
